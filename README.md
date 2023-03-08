@@ -4,6 +4,10 @@ This portfolio webpage was created by me, [Lisa Uhlen Ryssevik](https://www.uhld
 
 To visit the webpage online, go to [lisauhlen.github.io](lisauhlen.github.io).
 
+<div align="center">
+  <img alt="What the portfolio webpage looks like" src="https://res.cloudinary.com/lisaur/image/upload/v1678311099/Screenshot_2023-03-08_at_22.31.33_fh16fh.png" width="800px" />
+</div>
+
 ## Contents
 
 In this ReadMe file you will find information on:
