@@ -41,6 +41,7 @@ h2 {
 img {
     max-height: 230px;
     object-fit: cover;
+    object-position: top center;
     max-height: 210px;
 }
 
