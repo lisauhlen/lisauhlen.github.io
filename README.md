@@ -1,4 +1,4 @@
-# Welcome to this Portfolio Webpage 💍
+# Welcome to this Portfolio Webpage
 
 This portfolio webpage was created by me, [Lisa Uhlen Ryssevik](https://www.uhldev.com), to present some of the work I did during the Front End Developer course at Noroff.
 
